@@ -1,0 +1,10 @@
+.avatar{
+	width: 80%;
+	border-radius: 0%;
+	box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.2);
+}
+.avatar1 {
+	width: 200px;
+	border-radius: 0%;
+	box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.2);
+}
